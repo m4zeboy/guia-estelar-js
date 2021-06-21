@@ -10,3 +10,5 @@ Objetos são uma coleção de dados (propriedades e/ou funcionalidades).
 * `{  } abrir e fechar parenteses`
 * `{ nomeDaPropriedade: valor, }`
     * Os valores das propriedades podem ser qualquer tipo de dado.
+    * Acessamos as propriedades dos objetos escrevendo o nome do objeto seguido de um ponto seguido do nome da propriedade:
+    `pessoa.nome` 
